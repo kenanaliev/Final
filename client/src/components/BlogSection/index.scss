@@ -1,0 +1,36 @@
+#blog{
+    margin-top: 80px;
+
+    .main-title{
+        text-align: center;
+        margin-left: 30px;
+        h2{
+            font-size: 30px;
+        }
+        p{
+            font-size: 19px;
+        }
+        button{
+            border-style: none;
+            color: purple;
+        }
+       
+    }
+    .cards{
+        margin-top: 100px;
+        display: flex;
+        justify-content: space-around;
+        margin-left: 150px;
+        img{
+            width: 350px;
+        }
+        h3{
+            font-size: 22px;
+            width: 60%;
+        }
+         .info{
+            color: gray;
+            width: 60%;
+         }
+    }
+}

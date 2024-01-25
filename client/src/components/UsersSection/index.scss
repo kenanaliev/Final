@@ -1,0 +1,52 @@
+#users{
+    margin-top: 90px;
+    margin-left: 190px;
+    .photo{
+        img{
+            width: 83px;
+            border-radius: 40px;
+            border: 1px solid purple;
+            margin-left: 100px;
+        }
+        
+    }
+    display: flex;
+
+    .harley{
+        .lorem{
+            width: 50%;
+            font-size: 23px;
+            text-align: center;
+            color: gray;
+        }
+        .name{
+            color: purple;
+            margin-left: 90px;
+        }
+    }
+    .levi{
+        .lorem{
+            width: 50%;
+            font-size: 23px;
+            text-align: center;
+            color: gray;
+        }
+        .name{
+            color: purple;
+            margin-left: 90px;
+        }
+    }
+
+    .allie{
+        .lorem{
+            width: 50%;
+            font-size: 23px;
+            text-align: center;
+            color: gray;
+        }
+        .name{
+            color: purple;
+            margin-left: 90px;
+        }
+    }
+}
